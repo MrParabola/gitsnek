@@ -4,7 +4,7 @@
 #include "Board.h"
 #include <random>
 
-class Goal
+class Goal // Your mom is a nice person and I am glad there are people like her.
 {
 public:
 	Goal(std::mt19937& rng, const Board& brd, const Snek& snek);
